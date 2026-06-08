@@ -4,7 +4,7 @@ Selamat datang di repositori portfolio pribadi **Roja Firmanda** — seorang **S
 
 Website ini dibuat dengan pengalaman 3D immersive bertema **Neon Cyberpunk**, menggabungkan visual Three.js interaktif dengan scroll-based storytelling yang menampilkan perjalanan karier, keterampilan, proyek, dan kontak.
 
-🌐 **[Lihat Langsung →](https://roja28.github.io/portfolio)**
+🌐 **[Lihat Langsung →](https://roja28.github.io/PortfolioRoja)**
 
 ---
 
